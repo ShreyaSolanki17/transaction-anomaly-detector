@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/raw/
+data/processed/
+*.csv
+!data/README.md
+.ipynb_checkpoints/
+*.pt
+*.pkl
+*.joblib
+.env
+kaggle.json
